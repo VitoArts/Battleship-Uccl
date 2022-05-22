@@ -1,0 +1,10 @@
+boot vertikaal 2 1 3
+boot vertikaal 4 1 3
+boot vertikaal 6 1 6
+boot vertikaal 8 1 2
+boot vertikaal 10 1 2
+boot vertikaal 8 4 4
+boot vertikaal 2 7 3
+boot vertikaal 10 8 2
+boot vertikaal 1 5 4
+boot horizontaal 4 9 2
